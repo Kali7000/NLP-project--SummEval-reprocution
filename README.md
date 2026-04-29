@@ -255,6 +255,3 @@ Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., & Artzi, Y. (2020). BERTScore
 Nallapati, R., Zhou, B., Gulcehre, C., & Xiang, B. (2016). Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond. *CoNLL 2016*.
 
 ---
-
-*Submitted to ReproNLP 2026 — Track A (Open Track)*  
-*GEM 2026: 5th Generation, Evaluation & Metrics Workshop*
