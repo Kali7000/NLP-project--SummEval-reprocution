@@ -4,7 +4,7 @@
 import requests
 import os
 
-url = "https://raw.githubusercontent.com/Yale-LILY/SummEval/master/data/model_annotations.aligned.jsonl"
+url = "https://raw.githubusercontent.com/Yale-LILY/SummEval/master/data/model_annotations.aligned.scored.jsonl"
 
 os.makedirs("data", exist_ok=True)
 output_path = "data/model_annotations.aligned.jsonl"
